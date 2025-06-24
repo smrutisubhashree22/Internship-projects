@@ -19,6 +19,21 @@ To start the project:-
 http://localhost:5173/
 
 
+# Gemini Api
+
+Create a .env file to include your own api key 
+
+<a name="my-custom-anchor-point"></a>
+Refer to the below gemini docs for more information
+
+[(https://ai.google.dev/gemini-api/docs/text-generation)](#my-custom-anchor-point)
+
+
+
+
+
+
+
 
 Currently, two official plugins are available:
 
