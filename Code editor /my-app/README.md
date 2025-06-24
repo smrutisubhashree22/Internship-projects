@@ -1,3 +1,40 @@
+Project consists of two editors in one webpage for ease of use and building stronger conceptual grasp for different languages
+
+<h1>Built with</h1>
+•	Next.Js
+•	Tailwind CSS
+•	Typescript
+•	Monaco React Lib
+•	Piston API
+•	Shadcn-UI
+•	Headless-ui
+•	HeroIcons-ui
+•	Lucide-react
+
+<h1>DEMO IN DIFFERENT LANGUAGES</h1>
+
+**In Java**
+
+![Image](https://github.com/user-attachments/assets/17a61841-db5d-4580-95c0-66f55bb38c4b)
+
+**In Javascript**
+
+![Image](https://github.com/user-attachments/assets/8776b4ac-fdbe-4907-b335-de821ba03921)
+
+**In PHP**
+
+![Image](https://github.com/user-attachments/assets/2b6a82f6-fa6e-4943-9bc5-f47a52f56479)
+
+**In Python**
+
+![Image](https://github.com/user-attachments/assets/7bfc490a-3f4b-44d4-9fe7-5704296429a1)
+
+**In C**
+
+![Image](https://github.com/user-attachments/assets/ccdd5214-8e05-453f-be39-0c69557a1729)
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
