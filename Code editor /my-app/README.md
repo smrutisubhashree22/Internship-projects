@@ -11,6 +11,12 @@ Project consists of two editors in one webpage for ease of use and building stro
 •	HeroIcons-ui
 •	Lucide-react
 
+<h2>To start the project</h2>
+
+>cd my-app
+
+>npm run dev
+
 <h1>DEMO IN DIFFERENT LANGUAGES</h1>
 
 **In Java**
